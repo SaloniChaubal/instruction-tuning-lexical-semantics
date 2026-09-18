@@ -1,0 +1,4 @@
+comparison,W,p_raw,p_holm,significant
+SI vs RS,2.0,0.005859375,0.01171875,True
+SI vs PSD,5.0,0.01953125,0.01953125,True
+RS vs PSD,0.0,0.001953125,0.005859375,True
