@@ -1,0 +1,181 @@
+word,sense,dominance,context_level,sentence
+yard,outdoor_area,dominant,1,yard
+yard,outdoor_area,dominant,2,The kids are playing in the yard.
+yard,outdoor_area,dominant,2,Her yard is full of flowers.
+yard,outdoor_area,dominant,2,He mowed the yard yesterday.
+yard,outdoor_area,dominant,2,We built a fence around the yard.
+yard,outdoor_area,dominant,3,Every Saturday morning my father spends hours raking leaves in the yard behind our house.
+yard,outdoor_area,dominant,3,The new homeowners spent the whole weekend clearing debris from the overgrown yard.
+yard,outdoor_area,dominant,3,Children from the neighborhood often gather in her yard to play after school.
+yard,outdoor_area,dominant,3,The dog barked loudly at every squirrel that dared to enter the yard.
+yard,length_unit,subordinate,1,yard
+yard,length_unit,subordinate,2,The quarterback threw a 40-yard pass.
+yard,length_unit,subordinate,2,The store is just a few yards away.
+yard,length_unit,subordinate,2,He gained ten yards on that play.
+yard,length_unit,subordinate,2,The fabric costs five dollars per yard.
+yard,length_unit,subordinate,3,The running back broke free and sprinted nearly sixty yards before being tackled near the goal line.
+yard,length_unit,subordinate,3,The tailor carefully measured out three yards of silk for the wedding dress.
+yard,length_unit,subordinate,3,The construction crew had to extend the pipeline another two hundred yards to reach the site.
+yard,length_unit,subordinate,3,During the final quarter the team needed just ten more yards to secure a first down.
+tank,container,dominant,1,tank
+tank,container,dominant,2,I need to fill the tank with gas.
+tank,container,dominant,2,The fish tank needs cleaning.
+tank,container,dominant,2,She checked the water tank for leaks.
+tank,container,dominant,2,The tank was almost empty.
+tank,container,dominant,3,Before the long road trip he made sure to fill the tank completely at the gas station.
+tank,container,dominant,3,The aquarium's largest tank houses several colorful tropical fish species.
+tank,container,dominant,3,Workers inspected the water tank on the roof after residents complained about low pressure.
+tank,container,dominant,3,The brewery uses large steel tanks to ferment its beer for several weeks.
+tank,military_vehicle,subordinate,1,tank
+tank,military_vehicle,subordinate,2,The tank rolled through the city streets.
+tank,military_vehicle,subordinate,2,Soldiers climbed out of the tank.
+tank,military_vehicle,subordinate,2,The tank fired at the enemy position.
+tank,military_vehicle,subordinate,2,A tank was stationed near the border.
+tank,military_vehicle,subordinate,3,During the parade an old military tank rumbled slowly down the main avenue as crowds watched.
+tank,military_vehicle,subordinate,3,The museum's new exhibit features a restored tank used during the Second World War.
+tank,military_vehicle,subordinate,3,Reports indicated that several tanks had advanced toward the eastern front overnight.
+tank,military_vehicle,subordinate,3,The general ordered the tank division to hold its position until reinforcements arrived.
+staple,routine_item,dominant,1,staple
+staple,routine_item,dominant,2,Rice is a staple in many households.
+staple,routine_item,dominant,2,This dish has become a staple of the menu.
+staple,routine_item,dominant,2,Denim jeans are a staple in her wardrobe.
+staple,routine_item,dominant,2,Bread is a staple food here.
+staple,routine_item,dominant,3,For generations rice has remained a staple in nearly every household across the region.
+staple,routine_item,dominant,3,The chef explained that pasta has become a staple of the restaurant's seasonal menu.
+staple,routine_item,dominant,3,According to the stylist a well-fitted blazer is a staple that never goes out of fashion.
+staple,routine_item,dominant,3,Potatoes have long served as a staple crop for farming communities in colder climates.
+staple,wire_fastener,subordinate,1,staple
+staple,wire_fastener,subordinate,2,He used a staple to hold the papers together.
+staple,wire_fastener,subordinate,2,The staple fell out of the folder.
+staple,wire_fastener,subordinate,2,She removed the staple carefully.
+staple,wire_fastener,subordinate,2,A single staple wasn't enough to bind it.
+staple,wire_fastener,subordinate,3,Before submitting the report she made sure every page was secured with a single staple in the corner.
+staple,wire_fastener,subordinate,3,The stapler jammed halfway through leaving a bent staple stuck in the mechanism.
+staple,wire_fastener,subordinate,3,He carefully pulled out each staple from the old newspaper clippings before scanning them.
+staple,wire_fastener,subordinate,3,The office assistant replaced the staple in the printed handout after it came loose.
+chest,body_part,dominant,1,chest
+chest,body_part,dominant,2,He complained of chest pain.
+chest,body_part,dominant,2,The doctor listened to her chest.
+chest,body_part,dominant,2,She felt tightness in her chest.
+chest,body_part,dominant,2,The X-ray showed his chest clearly.
+chest,body_part,dominant,3,After the accident the paramedics immediately checked his chest for any signs of internal injury.
+chest,body_part,dominant,3,The cardiologist placed the stethoscope against her chest to listen for irregular heartbeats.
+chest,body_part,dominant,3,He woke up in the middle of the night with a sharp pain radiating across his chest.
+chest,body_part,dominant,3,The radiologist reviewed the scan and noted a small shadow near the base of his chest.
+chest,storage_box,subordinate,1,chest
+chest,storage_box,subordinate,2,They found an old chest in the attic.
+chest,storage_box,subordinate,2,The pirates buried the chest on the island.
+chest,storage_box,subordinate,2,She kept her jewelry in a wooden chest.
+chest,storage_box,subordinate,2,The chest was locked with a rusty key.
+chest,storage_box,subordinate,3,While cleaning out the attic they discovered a dust-covered chest filled with old letters and photographs.
+chest,storage_box,subordinate,3,According to the legend the pirates buried a heavy wooden chest somewhere along the rocky coastline.
+chest,storage_box,subordinate,3,Her grandmother had passed down an ornate chest that held decades of family heirlooms.
+chest,storage_box,subordinate,3,The movers struggled to carry the enormous chest down the narrow staircase.
+trunk,tree_trunk,dominant,1,trunk
+trunk,tree_trunk,dominant,2,The trunk of the tree was thick.
+trunk,tree_trunk,dominant,2,Lightning split the trunk in half.
+trunk,tree_trunk,dominant,2,He carved his initials into the trunk.
+trunk,tree_trunk,dominant,2,Moss covered the old trunk.
+trunk,tree_trunk,dominant,3,After the storm passed the fallen oak's massive trunk blocked the entire hiking trail.
+trunk,tree_trunk,dominant,3,The children loved climbing the wide low trunk of the ancient willow near the pond.
+trunk,tree_trunk,dominant,3,Botanists estimated the tree's age by counting the rings visible in its cut trunk.
+trunk,tree_trunk,dominant,3,Woodpeckers had drilled dozens of small holes into the trunk over the years.
+trunk,car_compartment,subordinate,1,trunk
+trunk,car_compartment,subordinate,2,He put the bags in the trunk.
+trunk,car_compartment,subordinate,2,The trunk of the car was full.
+trunk,car_compartment,subordinate,2,She opened the trunk to get her bag.
+trunk,car_compartment,subordinate,2,The spare tire is in the trunk.
+trunk,car_compartment,subordinate,3,He struggled to fit the oversized suitcase into the trunk before finally rearranging the golf clubs.
+trunk,car_compartment,subordinate,3,She popped the trunk open to grab the spare tire after noticing the flat on the highway.
+trunk,car_compartment,subordinate,3,The mechanic checked the trunk to make sure the emergency kit hadn't been removed.
+trunk,car_compartment,subordinate,3,After the grocery run he loaded all the bags into the trunk before driving home.
+temple,religious_building,dominant,1,temple
+temple,religious_building,dominant,2,They visited the ancient temple.
+temple,religious_building,dominant,2,The temple was crowded with worshippers.
+temple,religious_building,dominant,2,She lit a candle inside the temple.
+temple,religious_building,dominant,2,Tourists photographed the golden temple.
+temple,religious_building,dominant,3,Every year thousands of pilgrims travel great distances to visit the sacred temple perched on the hillside.
+temple,religious_building,dominant,3,The guide explained that the temple had been carefully restored after centuries of weathering.
+temple,religious_building,dominant,3,During the festival the entire temple courtyard was filled with the sound of chanting and bells.
+temple,religious_building,dominant,3,Archaeologists discovered intricate carvings hidden beneath the temple's outer walls.
+temple,forehead,subordinate,1,temple
+temple,forehead,subordinate,2,"He rubbed his temple, feeling a headache."
+temple,forehead,subordinate,2,A vein pulsed at her temple.
+temple,forehead,subordinate,2,The bruise was near his temple.
+temple,forehead,subordinate,2,She pressed two fingers to her temple.
+temple,forehead,subordinate,3,Exhausted from the long meeting she massaged her temple in an attempt to ease the throbbing headache.
+temple,forehead,subordinate,3,The doctor noted a faint scar just above his left temple from a childhood accident.
+temple,forehead,subordinate,3,He winced as the ball grazed his temple during the game.
+temple,forehead,subordinate,3,Sweat trickled down from her temple as she pushed through the final mile of the race.
+band,musical_group,dominant,1,band
+band,musical_group,dominant,2,The band played all night.
+band,musical_group,dominant,2,She joined a local band.
+band,musical_group,dominant,2,The band released a new album.
+band,musical_group,dominant,2,Fans lined up to see the band.
+band,musical_group,dominant,3,After years of playing in small clubs the band finally signed with a major record label.
+band,musical_group,dominant,3,The lead singer announced that the band would be touring across Europe next spring.
+band,musical_group,dominant,3,Thousands of fans gathered outside the stadium hours before the band took the stage.
+band,musical_group,dominant,3,Critics praised the band's latest album for its bold departure from their earlier sound.
+band,material_strip,subordinate,1,band
+band,material_strip,subordinate,2,She wore a rubber band on her wrist.
+band,material_strip,subordinate,2,The band snapped under pressure.
+band,material_strip,subordinate,2,He stretched the band around the box.
+band,material_strip,subordinate,2,A tight band held the papers together.
+band,material_strip,subordinate,3,She kept a thin rubber band around her wrist as a reminder to stop biting her nails.
+band,material_strip,subordinate,3,The old elastic band had lost its stretch and snapped the moment he pulled it.
+band,material_strip,subordinate,3,To keep the stack of letters organized she wrapped a wide band around each bundle.
+band,material_strip,subordinate,3,The nurse secured the bandage in place with a small elastic band before checking his pulse.
+tissue,biological_tissue,dominant,1,tissue
+tissue,biological_tissue,dominant,2,The biopsy examined the tissue sample.
+tissue,biological_tissue,dominant,2,Muscle tissue was damaged in the injury.
+tissue,biological_tissue,dominant,2,The scientist studied the tissue under a microscope.
+tissue,biological_tissue,dominant,2,Scar tissue formed around the wound.
+tissue,biological_tissue,dominant,3,The pathologist carefully examined the tissue sample for any signs of abnormal cell growth.
+tissue,biological_tissue,dominant,3,After the surgery doctors monitored how quickly the surrounding tissue began to heal.
+tissue,biological_tissue,dominant,3,Researchers extracted a small piece of tissue to study its cellular structure under the microscope.
+tissue,biological_tissue,dominant,3,The injury had caused significant damage to the muscle tissue around his knee.
+tissue,paper_tissue,subordinate,1,tissue
+tissue,paper_tissue,subordinate,2,She grabbed a tissue to wipe her nose.
+tissue,paper_tissue,subordinate,2,The box of tissue was empty.
+tissue,paper_tissue,subordinate,2,He sneezed and reached for a tissue.
+tissue,paper_tissue,subordinate,2,A crumpled tissue sat on the desk.
+tissue,paper_tissue,subordinate,3,Feeling a cold coming on she kept a box of tissue close by on her nightstand.
+tissue,paper_tissue,subordinate,3,He pulled a tissue from his pocket to wipe the smudge off his glasses.
+tissue,paper_tissue,subordinate,3,The waiting room had a nearly empty box of tissue sitting on a side table.
+tissue,paper_tissue,subordinate,3,She dabbed her eyes with a tissue after finishing the emotional final chapter of the book.
+seal,marine_animal,dominant,1,seal
+seal,marine_animal,dominant,2,The seal swam near the shore.
+seal,marine_animal,dominant,2,A seal barked at the tourists.
+seal,marine_animal,dominant,2,The seal rested on a rock.
+seal,marine_animal,dominant,2,Divers spotted a seal underwater.
+seal,marine_animal,dominant,3,Tourists gathered along the pier to watch a seal playfully diving in and out of the harbor.
+seal,marine_animal,dominant,3,Marine biologists tagged the young seal before releasing it back into the bay.
+seal,marine_animal,dominant,3,The seal lay sunbathing on the rocks seemingly unbothered by the crowd of onlookers.
+seal,marine_animal,dominant,3,Fishermen often see a curious seal following their boats along the coastline.
+seal,wax_stamp,subordinate,1,seal
+seal,wax_stamp,subordinate,2,The document bore the royal seal.
+seal,wax_stamp,subordinate,2,She pressed a wax seal onto the envelope.
+seal,wax_stamp,subordinate,2,The notary applied an official seal.
+seal,wax_stamp,subordinate,2,The seal certified the document's authenticity.
+seal,wax_stamp,subordinate,3,The ancient treaty was authenticated by a wax seal bearing the king's personal emblem.
+seal,wax_stamp,subordinate,3,Before mailing the invitation she carefully pressed a gold wax seal onto the back of the envelope.
+seal,wax_stamp,subordinate,3,The notary stamped the contract with an official seal to confirm its legal validity.
+seal,wax_stamp,subordinate,3,Historians identified the letter's origin by examining the distinctive seal pressed into the wax.
+racket,sports_equipment,dominant,1,racket
+racket,sports_equipment,dominant,2,She swung the racket hard.
+racket,sports_equipment,dominant,2,His racket broke during the match.
+racket,sports_equipment,dominant,2,He bought a new tennis racket.
+racket,sports_equipment,dominant,2,The racket strings needed replacing.
+racket,sports_equipment,dominant,3,Before the tournament she spent hours restringing her racket to get the tension just right.
+racket,sports_equipment,dominant,3,He gripped his racket tightly waiting for the serve that would decide the match.
+racket,sports_equipment,dominant,3,The coach recommended a lighter racket to help improve her swing speed.
+racket,sports_equipment,dominant,3,After years of use the frame of his old racket finally cracked during practice.
+racket,loud_noise,subordinate,1,racket
+racket,loud_noise,subordinate,2,The neighbors made a terrible racket.
+racket,loud_noise,subordinate,2,What is that racket outside?
+racket,loud_noise,subordinate,2,The construction crew caused quite a racket.
+racket,loud_noise,subordinate,2,Stop making such a racket!
+racket,loud_noise,subordinate,3,The upstairs neighbors were throwing a party and the racket kept everyone awake until dawn.
+racket,loud_noise,subordinate,3,Construction workers began drilling early in the morning causing a racket that echoed through the whole building.
+racket,loud_noise,subordinate,3,The dog barked incessantly adding to the racket already coming from the street below.
+racket,loud_noise,subordinate,3,Passersby covered their ears as the marching band practiced creating quite a racket in the square.
